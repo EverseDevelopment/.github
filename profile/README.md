@@ -1,4 +1,8 @@
-# e-verse
+<p align="center" width="100%">
+    <a href="https://www.e-verse.com/">
+    <img src="https://github.com/EverseDevelopment/DynaForge/blob/main/Assets/e-verse_logo_no%20slogan.jpg" width="732" height="271" align="center">
+    </a>
+</p>
 
 ## About Us
 Welcome to [e-verse]! We are innovators in the AEC sector, dedicated to developing software that revolutionizes architectural designs, engineering projects, and construction works that are managed and executed.
@@ -14,8 +18,3 @@ Here are some of our exciting projects:
 ## Our Blog
 If you want to learn more about what we do you can access our [BLOG](https://e-verse.com/blog-articles/)
 
-<p align="center" width="100%">
-    <a href="https://www.e-verse.com/">
-    <img src="https://github.com/EverseDevelopment/DynaForge/blob/main/Assets/e-verse_logo_no%20slogan.jpg" width="732" height="271" align="center">
-    </a>
-</p>
