@@ -16,5 +16,16 @@ Here are some of our exciting projects:
 - **[AEC Works](https://aecworks.e-verse.com/)**: A dynamic directory of cutting-edge AEC Startups that are redefining the Contech ecosystem
 
 ## Our Blog
-If you want to learn more about what we do you can access our [BLOG](https://e-verse.com/blog-articles/)
+If you want to learn more about what we do, you can access our [BLOG](https://e-verse.com/blog-articles/)
+
+## Our Case Studies
+Check out our [Case Studies]([https://e-verse.com/blog-articles/](https://e-verse.com/case-studies/) for our amazing clients 
+
+## Our Products
+Give a look to some of the [Products]([https://e-verse.com/blog-articles/](https://e-verse.com/our-lab/#products) that we have created 
+
+## Our Demors
+Play and have fun with some of our [Demos]([https://e-verse.com/blog-articles/](https://e-verse.com/our-lab/#demos)https://e-verse.com/our-lab/#demos)
+
+
 
