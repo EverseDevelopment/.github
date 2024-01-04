@@ -18,13 +18,15 @@ Here are some of our exciting projects:
 ## Our Blog
 If you want to learn more about what we do, you can access our [BLOG](https://e-verse.com/blog-articles/)
 
+<img src="https://s3.amazonaws.com/everse.assets/GithubReadme/GithuReadmeBlog-01.png" align="center">
+
 ## Our Case Studies
 Check out our [Case Studies](https://e-verse.com/case-studies/) for our amazing clients 
 
 ## Our Products
 Give a look at some of our [Products](https://e-verse.com/our-lab/#products) that we have created 
 
-## Our Demors
+## Our Demos
 Play and have fun with some of our [Demos](https://e-verse.com/our-lab/#demos)
 
 
