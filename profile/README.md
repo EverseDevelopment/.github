@@ -19,13 +19,13 @@ Here are some of our exciting projects:
 If you want to learn more about what we do, you can access our [BLOG](https://e-verse.com/blog-articles/)
 
 ## Our Case Studies
-Check out our [Case Studies]([https://e-verse.com/blog-articles/](https://e-verse.com/case-studies/) for our amazing clients 
+Check out our [Case Studies](https://e-verse.com/blog-articles/](https://e-verse.com/case-studies/) for our amazing clients 
 
 ## Our Products
-Give a look to some of the [Products]([https://e-verse.com/blog-articles/](https://e-verse.com/our-lab/#products) that we have created 
+Give a look to some of the [Products](https://e-verse.com/our-lab/#products) that we have created 
 
 ## Our Demors
-Play and have fun with some of our [Demos]([https://e-verse.com/blog-articles/](https://e-verse.com/our-lab/#demos)https://e-verse.com/our-lab/#demos)
+Play and have fun with some of our [Demos](https://e-verse.com/our-lab/#demos)https://e-verse.com/our-lab/#demos)
 
 
 
