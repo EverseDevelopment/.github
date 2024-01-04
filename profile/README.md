@@ -36,6 +36,12 @@ Check out our [Case Studies](https://e-verse.com/case-studies/) for our amazing 
 ## Our Products
 Give a look at some of our [Products](https://e-verse.com/our-lab/#products) that we have created 
 
+<p align="center" width="100%">
+    <a href="https://e-verse.com/our-lab/#products">
+    <img src="https://s3.amazonaws.com/everse.assets/GithubReadme/GithubProducts-01.png" align="center">
+    </a>
+</p>
+
 ## Our Demos
 Play and have fun with some of our [Demos](https://e-verse.com/our-lab/#demos)
 
