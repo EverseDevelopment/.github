@@ -5,7 +5,7 @@
 </p>
 
 ## About Us
-Welcome to [e-verse]! We are innovators in the AEC sector, dedicated to developing software that revolutionizes architectural designs, engineering projects, and construction works that are managed and executed.
+Welcome to [e-verse]("https://www.e-verse.com/")! We are innovators in the AEC sector, dedicated to developing software that revolutionizes architectural designs, engineering projects, and construction works that are managed and executed.
 
 ## Our Projects
 Here are some of our exciting projects:
@@ -44,6 +44,12 @@ Give a look at some of our [Products](https://e-verse.com/our-lab/#products) tha
 
 ## Our Demos
 Play and have fun with some of our [Demos](https://e-verse.com/our-lab/#demos)
+
+<p align="center" width="100%">
+    <a href="https://e-verse.com/our-lab/#demos">
+    <img src="https://s3.amazonaws.com/everse.assets/GithubReadme/GithubDemos-01.png" align="center">
+    </a>
+</p>
 
 
 
