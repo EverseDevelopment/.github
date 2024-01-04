@@ -1,6 +1,6 @@
 <p align="center" width="100%">
     <a href="https://www.e-verse.com/">
-    <img src="https://s3.amazonaws.com/everse.assets/GithubReadme/e-verse_logo_no+slogan.jpg" width="732" height="271" align="center">
+    <img src="https://s3.amazonaws.com/everse.assets/GithubReadme/e-verse_logo_no+slogan.jpg" align="center">
     </a>
 </p>
 
